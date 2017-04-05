@@ -1,6 +1,6 @@
 # vf1
 Home page of the task
-<apex:page controller="cont2" showHeader="true">
+<apex:page controller="cont2" showHeader="false">
 <h1>Welcome</h1>
     <apex:form > <center>
        WELCOME TO THE HOMEPAGE<br/><br/>
